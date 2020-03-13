@@ -1,6 +1,6 @@
 # poker
 输入格式：
-black:'2H 3D 5S 9C KD' /twhite:'2C 3H 4S 8C AH'   black与white之间需要一个制表符/t
+black:'2H 3D 5S 9C KD' \twhite:'2C 3H 4S 8C AH'   black与white之间需要一个制表符/t
 一副扑克有52张牌，每张牌由一个花色和一个数字构成。
 
 花色为以下四者之一：
